@@ -1,2 +1,2 @@
 # CODSOFT--Calculator
- calculator
+ calculator All the codes are written in html and Css
